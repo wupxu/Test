@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: hxlife-wxhb
+Implementation-Version: 1.0.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.hualife
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org/hxlife-wxhb
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.hualife.bootstrap.Startup
+
