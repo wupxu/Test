@@ -1,1 +1,3 @@
-‘∂≥Ãorigin/dev∑÷÷ß
+2018-10-09 15:31:13.417 edu-user-app-test 1.0.2.RELEASE ERROR 15311 --- [http-nio-10901-exec-24] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+
+java.lang.NullPointerException: null
