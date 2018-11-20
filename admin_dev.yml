@@ -1,3 +1,7 @@
-info:
-  profile: dev
-  from: git
+spring.datasource.url=jdbc:mysql://10.10.200.152:3306/bp?useUnicode=true&characterEncoding=UTF-8
+spring.datasource.username=liutsi
+spring.datasource.password=K78NY3cS
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.tomcat.testWhileIdle=true
+spring.datasource.tomcat.validationQuery=SELECT 1  
+spring.jpa.show-sql=true
