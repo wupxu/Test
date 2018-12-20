@@ -59,6 +59,6 @@ public class RR {
         out.close();
         System.out.println("开始写入");
         System.out.println("开始写入");
-        System.out.println("开始写入");
+
     }
 }
