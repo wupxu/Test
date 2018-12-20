@@ -58,6 +58,6 @@ public class RR {
         }        
         out.close();
         System.out.println("开始写入");
-		System.out.println("提交远程");
+        System.out.println("开始写入");
     }
 }
