@@ -8,6 +8,7 @@ import java.util.List;
 public class Test {
     public static void main(String[] args) {
         System.out.println(System.getProperty("fuck.abc"));
+        System.out.println("推送的远程");
 
     }
 
