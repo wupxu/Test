@@ -28,7 +28,9 @@ public class RR {
 //		Constant.OSS_PDF_PATH +
 		String dateStr = DateFormatUtil.formatDate("yyyy/MM/dd/", da);
 //		String ossPath =  "/" + "jand" + "/" + "1" + "/"+dateStr+".pdf";
-		String ossPath = dateStr+"111"+".pef";
+		String ossPath = dateStr+"111"+".pefffff";
+		String oss;
+		String ossPat = dateStr+"111"+".pef";
 		System.out.println(ossPath);
 	}
 
